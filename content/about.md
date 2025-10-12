@@ -17,4 +17,4 @@ stay tuned!!!!!
 <iframe src="https://www5.cbox.ws/box/?boxid=958866&boxtag=eYmxfD" width="80%" height="200" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	
 
 ## log
-modified: 2025-10-07 | created: 2025-09-30
+modified: {{ page.date | formatDate }} | created: 2025-09-30
