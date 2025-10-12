@@ -1,7 +1,7 @@
 ---
 nesting: ../
 layout: .njk
-permalink: .html
+permalink:
 title:
 date:
 tags:

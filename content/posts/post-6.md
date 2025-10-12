@@ -17,5 +17,3 @@ i can't work with this situation.
 ### today:
 1. editing date formatting, from yyyy-LL-dd to dd-LLL-yyyy
 2. setting up obsidian vault
-
-<img src="">
