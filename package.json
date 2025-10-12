@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "@11ty/eleventy-plugin-rss": "^2.0.4"
+  },
+  "dependencies": {
+    "html-minifier-terser": "^7.2.0",
+    "rss-parser": "^3.13.0"
+  },
+  "name": "building-blogs",
+  "version": "1.0.0",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysaneysa/building-blogs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ysaneysa/building-blogs/issues"
+  },
+  "homepage": "https://github.com/ysaneysa/building-blogs#readme",
+  "description": ""
+}

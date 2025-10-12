@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://ysaaa.neocities.org/">
+  <title>the page</title>
+  <subtitle>this is the description...</subtitle>
+  <link href="https://ysaaa.neocities.org/rss.xml" rel="self"/>
+  <updated>2025-10-07T00:00:00Z</updated>
+  <id>https://ysaaa.neocities.org/</id>
+  <author>
+    <name>Ysa</name>
+  </author>
+  <entry>
+    <title>post #6</title>
+    <link href="https://ysaaa.neocities.org/posts/post-6.html"/>
+    <updated>2025-10-07T00:00:00Z</updated>
+    <id>https://ysaaa.neocities.org/posts/post-6.html</id>
+    <content type="html">&lt;p&gt;i don&#39;t think i&#39;m good at this office work i&#39;m doing now.&lt;/p&gt;
+&lt;p&gt;anyways, i&#39;m going to a cafe to get matcha.&lt;/p&gt;
+&lt;p&gt;the last time i went to this cafe, the ac was too cold. now it doesn&#39;t seem to work, too hot.&lt;/p&gt;
+&lt;p&gt;i can&#39;t work with this situation.&lt;/p&gt;
+&lt;h3&gt;today:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;editing date formatting, from yyyy-LL-dd to dd-LLL-yyyy&lt;/li&gt;
+&lt;li&gt;setting up obsidian vault&lt;/li&gt;
+&lt;/ol&gt;
+&lt;img src=&quot;&quot;&gt;</content>
+  </entry>
+  <entry>
+    <title>post #5</title>
+    <link href="https://ysaaa.neocities.org/posts/post-5.html"/>
+    <updated>2025-10-06T00:00:00Z</updated>
+    <id>https://ysaaa.neocities.org/posts/post-5.html</id>
+    <content type="html">&lt;p&gt;i&#39;m back to working at my office.&lt;/p&gt;
+&lt;p&gt;my friend treated me chicken noodles for lunch, while her friend was lore-dropping her family origin and how her family came from a minority-indigenous tribe in northern borneo. yes, it was a minority and that&#39;s also why her family was trying to not identify themself as the community, due its past history with another tribe. of course the community is superstitious and has a goddess represented by the nature, or the river, as she mentioned. she&#39;s now hyperfixating on learning her heritage language, with a mission to speak it with her grand-aunt (i don&#39;t remember the part where she told us she&#39;s alive).&lt;/p&gt;
+&lt;p&gt;anyways, i&#39;m rooting for her!&lt;/p&gt;
+&lt;h3&gt;today:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;adding letterboxd entries on my homepage, using its &lt;a href=&quot;https://letterboxd.com/about/faq/#auto-publish&quot;&gt;rss&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;img src=&quot;https://files.catbox.moe/35hodf.png&quot;&gt;</content>
+  </entry>
+  <entry>
+    <title>post #4</title>
+    <link href="https://ysaaa.neocities.org/posts/post-4.html"/>
+    <updated>2025-10-05T00:00:00Z</updated>
+    <id>https://ysaaa.neocities.org/posts/post-4.html</id>
+    <content type="html">&lt;p&gt;it&#39;s really nice to not have anything planned to do on sunday. the weather is also nice although i think it&#39;s gonna rain soon (it&#39;s 3pm now).&lt;/p&gt;
+&lt;h3&gt;today:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;main page&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;adding &lt;a href=&quot;rss.xml&quot;&gt;rss feed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;adding github backup and automatic push to neocities (&lt;a href=&quot;https://petrapixel.neocities.org/coding/neocities&quot;&gt;tutorial&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;adding last.fm widget (&lt;a href=&quot;https://petrapixel.neocities.org/coding/widgets#:~:text=Last.Fm%20Currently%20Listening%20/%20Last%20Song&quot;&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;mysterious page&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;creating a new .njk template with dedicated header and footer&lt;/li&gt;
+&lt;li&gt;adding flower cursor (&lt;a href=&quot;https://scripted.neocities.org/cursor-bg#:~:text=Flower,-Cursor&quot;&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;making the background pink and the text brown&lt;/li&gt;
+&lt;li&gt;creating a new sub-page called &#39;collections&#39;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;documentation:&lt;/h3&gt;
+&lt;img src=&quot;https://files.catbox.moe/048tvu.png&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TlZ-ZXkUKGE?si=_GE0ieYdN8JJeDrs&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen&gt;&lt;/iframe&gt;</content>
+  </entry>
+  <entry>
+    <title>post #3</title>
+    <link href="https://ysaaa.neocities.org/posts/post-3.html"/>
+    <updated>2025-10-04T00:00:00Z</updated>
+    <id>https://ysaaa.neocities.org/posts/post-3.html</id>
+    <content type="html">&lt;p&gt;still abandoning my thesis and working on this instead! :D&lt;/p&gt;
+&lt;h3&gt;today:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;updating css so the text is all boxed in the center of the page&lt;/li&gt;
+&lt;li&gt;fixing embed stuff css (img, iframe)&lt;/li&gt;
+&lt;li&gt;slowly getting the logic of both html and css (played around with formatting etc)&lt;/li&gt;
+&lt;li&gt;summary: getting more comfortable with everything!!!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;tomorrow:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;push to neocities with the &lt;a href=&quot;https://neocities.org/api&quot;&gt;API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;upload to github so i can track changes easily&lt;/li&gt;
+&lt;li&gt;put a guest list / comment box&lt;/li&gt;
+&lt;li&gt;update the readable date system&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;documentation:&lt;/h3&gt;
+&lt;img src=&quot;https://files.catbox.moe/fh225h.png&quot;&gt;
+&lt;img src=&quot;https://files.catbox.moe/c8toyt.png&quot;&gt;</content>
+  </entry>
+  <entry>
+    <title>post #2</title>
+    <link href="https://ysaaa.neocities.org/posts/post-2.html"/>
+    <updated>2025-10-03T00:00:00Z</updated>
+    <id>https://ysaaa.neocities.org/posts/post-2.html</id>
+    <content type="html">&lt;p&gt;running on 5 hrs sleep (3 days in a row) and continuing building this page while abandoning my thesis.&lt;/p&gt;
+&lt;p&gt;life is fun!&lt;/p&gt;
+&lt;p&gt;also i&#39;m now learning to use &lt;a href=&quot;https://www.11ty.dev&quot;&gt;11ty&lt;/a&gt; to create .html files from .md (+ templates for header &amp;amp; footer). very convenient! i only need to edit the .md files containing the metadata and the body text.&lt;/p&gt;
+&lt;p&gt;i&#39;m planning to integrate this with &lt;a href=&quot;https://obsidian.md&quot;&gt;obsidian.md&lt;/a&gt; and iCloud Drive. so i can edit and write on my iPhone.&lt;/p&gt;
+&lt;p&gt;tutorials i&#39;m using:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://renkotsuban.neocities.org/posts/2023-11-15-Migrating-to-Eleventy#set-up-your-posts-directory-and-post-njk&quot;&gt;Midnight Reading: 🖥️ Migrating to Eleventy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://petrapixel.neocities.org/coding/eleventy-tutorial#templates&quot;&gt;PetraPixel: 11ty (eleventy) Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/nycki93/eleventy-for-neocities-users&quot;&gt;nycki93/eleventy-for-neocities-users&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;code editor i&#39;m using:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://vscodium.com&quot;&gt;VSCodium&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>post #1</title>
+    <link href="https://ysaaa.neocities.org/posts/post-1.html"/>
+    <updated>2025-09-30T00:00:00Z</updated>
+    <id>https://ysaaa.neocities.org/posts/post-1.html</id>
+    <content type="html">&lt;p&gt;this is the first log.
+something about lowercase arial text on a plain background is just beautiful
+... or so i thought 5 seconds ago.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;update 10pm:&lt;/strong&gt; i still don&#39;t know how to make an empty line.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;update 11pm:&lt;/strong&gt; today&#39;s timelapse log!!!!! title: first html stuff idk man...&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/9SaxQmRaSK4?si=paDsfvXCSlYT00xz&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;update 12am (+1 day):&lt;/strong&gt; i can now embed a music player!!! so cute :3&lt;/p&gt;
+&lt;img src=&quot;https://files.catbox.moe/eyolx2.png&quot;&gt;
+&lt;p&gt;&lt;strong&gt;update 1am (+1 day):&lt;/strong&gt; anyways it&#39;s for this mysterious page for my (future) gf like i don&#39;t wanna jinx it but here we &lt;a href=&quot;../mysterious&quot;&gt;go&lt;/a&gt; it&#39;s not like i shared this page to anyone except her (only that subpage tho). i hope she doesn&#39;t open the main page cuz she might open this post and read this and i&#39;m shy.&lt;/p&gt;
+</content>
+  </entry>
+</feed>

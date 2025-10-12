@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>{{ title }}</title>
+    <script src="{{ nesting }}main.js"></script>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta property="og:type" content="{{ type }}">
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:url" content="https://ysaaa.neocities.org/{{ permalink }}">
+    <link rel="stylesheet" href="/css/style.css">
+    <link href="https://ysaaa.neocities.org/rss.xml" rel="alternate" type="application/rss+xml" title="RSS feed for the page">
+
+    {% block head %}{% endblock %}
+  </head>
+  <body class="{{ bodyClass }}">
+    <header>
+    <nav>
+      <a href="/index.html">home</a> |
+      <a href="/archive.html">archive</a> |
+      <a href="/about.html">about</a> |
+      <a href="rss.xml">rss</a>
+    </nav>
+    </header>
+    <main>
+      {{ content | safe }}
+    </main>
+    <footer><p><small>© 2025 Ysa</small></p></footer>
+  </body>
+</html>
