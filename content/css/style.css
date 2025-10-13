@@ -47,7 +47,6 @@ header, footer {
 #navbar {
   width: 100%;
   padding: 0 10%;
-  margin-bottom: 10px;
 }
 #navbar ul {
   display: flex;
@@ -60,7 +59,6 @@ header, footer {
   padding-top: 5px;
   padding-bottom: 5px;
   display: inline-block;
-  margin-right: 1.5em;
   margin-bottom: 0.2em;
   margin-top: 0.2em;
 }
