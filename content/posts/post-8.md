@@ -13,6 +13,7 @@ i think i need to automate the obsidian-11ty-github/neocities workflow cuz i'm g
 ### next time
 * automate the stuff so i can just open obsidian to write stuff and everything
 * and only open vscodium when i want to update css or widgets
+* edit favicon
 
 inspo: [My Obsidian + Hugo Blogging Setup: A Smooth Blogging Workflow](https://hackernoon.com/my-obsidian-hugo-blogging-setup-a-smooth-blogging-workflow)
 
