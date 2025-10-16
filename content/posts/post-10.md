@@ -13,6 +13,7 @@ finally continued my thesis this whole afternoon. also told my thesis supervisor
 1. creating a storygraph widget for current reading on [home](/index.html) and 5 recently-read books on [media](/media.html)
 2. oh! yeah. creating a new sub-page [media](/media.html) for: recently listened song from [last.fm](https://www.last.fm), recently read books from [storygraph](https://app.thestorygraph.com), and recently watched films/series from [letterboxd](https://letterboxd.com)
 3. and also clearing stuff up from the [home](/index.html), so it's not cluttered
+4. updating favicon.ico to the [orchid](https://files.catbox.moe/xdtbxt.ico) >__<
 
 ### next time
 1. i think building a digital garden framework is an urgent matter, since i can't keep on writing everything in this format here. also i want to keep track of cool stuff and resources i found.
