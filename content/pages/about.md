@@ -2,8 +2,10 @@
 layout: base.njk
 permalink: about.html
 title: about
-nesting: "./"
+nesting: ./
 date: Last Modified
+modified: 2025-11-02
+publish: true
 ---
 # about
 
@@ -13,9 +15,8 @@ this page is the documentation of stuff i'm learning.
 
 sign my guestbook below or add to my [rss](/rss.xml).
 
-thanks for stopping by! <3
+thanks for stopping by!
 
-<br>
 
 ## guestbook
 <iframe src="https://www5.cbox.ws/box/?boxid=958866&boxtag=eYmxfD" width="80%" height="250" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	

@@ -2,6 +2,8 @@
 layout: base.njk
 permalink: archive.html
 title: archive
+publish: true
+modified: 2025-11-02
 ---
 # {{ title }}
 
