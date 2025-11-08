@@ -167,12 +167,12 @@ iframe[src*="youtube.com"] {
   text-decoration: underline;
 }
 
-.feed-container{text-align:left;font-size:12px;font-family:Helvetica,Arial,Sans-serif;border:1px solid #FFBFC8}
-.feed-container .header{margin:0px;padding:3px 3px 3px 3px;}
-.feed-container .footer{display:none;padding:5px 5px 5px 5px;}
-.feed-container .content{margin:3px;padding:0 3px;}
-.feed-container .content .item{margin:0 0 7px 0;padding:0 0 7px 0;border-bottom:1px dashed #FFBFC8;}
-.feed-container .content .item .title{color:#FFBFC8;text-decoration:none;}
+.feed-container{text-align:left;font-size:12px;font-family:Helvetica,Arial,Sans-serif;border:1px solid #c1cee2}
+.feed-container .header{display:none;}
+.feed-container .footer{display:none;}
+.feed-container .content{margin:0px;padding:0 3px;}
+.feed-container .content .item{margin:0 0 7px 0;padding:0 0 7px 0;border-bottom:1px dashed #c1cee2;}
+.feed-container .content .item .title{margin:1px 0 1px 3px;padding:1px 2px 1px 3px;color:#FFBFC8;font-weight:bold}
 .feed-container .content .item .title a:link{color:#FFBFC8;text-decoration:none;}
 .feed-container .content .item .title a:visited{color:#DF6E9F;text-decoration:none;}
 .feed-container .content .item .title a:hover{color:#FFBFC8;text-decoration:underline;}
