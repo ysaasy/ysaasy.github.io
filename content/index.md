@@ -52,7 +52,7 @@ fetch("/storygraph-current.json")
 rssfeed_url = new Array(); 
 rssfeed_url[0]="https://status.cafe/users/ysaaa.atom";  
 rssfeed_frame_width="260"; 
-rssfeed_frame_height="260"; 
+rssfeed_frame_height="280"; 
 rssfeed_scroll="off"; 
 rssfeed_scroll_step="6"; 
 rssfeed_scroll_bar="off"; 
