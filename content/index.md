@@ -5,8 +5,7 @@ title: "home"
 nesting: "./"
 date: 
 ---
-# ysaaa
-
+# home
 
 ## recent notes
 <div id="recentpostlistdiv">
@@ -89,6 +88,3 @@ rssfeed_cache = "8e30fc44512d4b0aefd978d9c62ce31b";
 </script> 
 <script type="text/javascript" src="//feed.surfing-waves.com/js/rss-feed.js"></script> 
 <!-- end sw-rss-feed code -->
-
-
-## hi
