@@ -9,14 +9,14 @@ date:
 
 ## recent notes
 <div id="recentpostlistdiv">
-  {% assign top_posts = collections.posts | reverse %}
-	{%- for post in top_posts limit:3 -%}
-		<a href="{{ post.data.permalink }}">{{ post.data.title }}</a><br>
-	{% endfor %}
+  {% assign top_notes = collections.notes | reverse %}
+  {%- for post in top_notes limit:3 -%}
+  <a href="{{ post.data.page.url}}">{{ post.data.title }}</a><br>
+  {% endfor %}
 </div>
 <a href="/archive.html">...</a>
 
-## currently reading
+## currently
 <div id="storygraph-diary" class="sg-container"></div>
 
 <script>
@@ -31,7 +31,7 @@ fetch("/storygraph-current.json")
       html += `
         <div class="sg-entry">
           <div class="sg-content">
-            <a href="https://app.thestorygraph.com/books/${entry.book_id}" target="_blank">${entry.title}</a>
+            <h4>reading <a href="https://app.thestorygraph.com/books/${entry.book_id}" target="_blank">${entry.title}</a></h4>
           </div>
         </div>
       `;
@@ -44,7 +44,6 @@ fetch("/storygraph-current.json")
   });
 </script>
 
-## status.cafe
 <!-- start sw-rss-feed code --> 
 <script type="text/javascript"> 
 <!-- 

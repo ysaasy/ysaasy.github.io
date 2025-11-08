@@ -4,7 +4,7 @@ body {
   background-color: #1a1c1f;
   font-family: Arial, Helvetica, sans-serif;
   color: #c1cee2;
-  line-height: 1.6em;
+  line-height: 1.4em;
   text-align: center;
   max-width: 500px;
   margin: 2rem auto;
@@ -13,7 +13,7 @@ body {
 
 h1, h2, h3, h4 {
   color: #FFBFC8;
-  line-height: 1.6em;
+  line-height: 1.4em;
 }
 
 a, a:visited {
@@ -141,10 +141,14 @@ iframe[src*="youtube.com"] {
 #storygraph-diary {
   max-width: 500px;
 }
+
+
+.sg-container h4 {line-height: 1em;margin:0;}
+
 .sg-container {
   max-width: 500px;
   font-family: Arial;
-  margin-bottom: 50px;
+  margin-bottom: 2em;
 }
 .sg-entry {
   display: flex;

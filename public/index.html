@@ -29,12 +29,12 @@
       <h1>home</h1>
 <h2>recent notes</h2>
 <div id="recentpostlistdiv">
-  <a href="posts/post-10.html">post #10</a><br>
-	<a href="posts/post-9.html">post #9</a><br>
-	<a href="posts/post-8.html">post #8</a><br>
+  <a href="/notes/personal page todo.html">personal page todo</a><br>
+  <a href="/notes/moving to orion browser.html">web browsers</a><br>
+  <a href="/notes/seedless fruits.html">seedless fruits</a><br>
 </div>
 <a href="/archive.html">...</a>
-<h2>currently reading</h2>
+<h2>currently</h2>
 <div id="storygraph-diary" class="sg-container"></div>
 <script>
 fetch("/storygraph-current.json")
@@ -48,7 +48,7 @@ fetch("/storygraph-current.json")
       html += `
         <div class="sg-entry">
           <div class="sg-content">
-            <a href="https://app.thestorygraph.com/books/${entry.book_id}" target="_blank">${entry.title}</a>
+            <h4>reading <a href="https://app.thestorygraph.com/books/${entry.book_id}" target="_blank">${entry.title}</a></h4>
           </div>
         </div>
       `;
@@ -60,7 +60,6 @@ fetch("/storygraph-current.json")
     console.error(err);
   });
 </script>
-<h2>status.cafe</h2>
 <!-- start sw-rss-feed code --> 
 <script type="text/javascript"> 
 <!-- 
