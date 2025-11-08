@@ -174,7 +174,9 @@ border-right-width: 0px;
 border-bottom-width: 0px;
 border-left-width: 0px;}
 
-.feed-container{margin: 0; line-height: 1.6em;text-align:left;font-size:12px;font-family:Helvetica,Arial,Sans-serif;border:1px solid #c1cee2}
+body[onload="InitFeed();"]{margin: 0;padding:0}
+
+.feed-container{line-height: 1.6em;text-align:left;font-size:12px;font-family:Helvetica,Arial,Sans-serif;border:1px solid #c1cee2}
 .feed-container .header{display:none;}
 .feed-container .footer{display:none;}
 .feed-container .content{margin:0px;padding:0 3px;}
