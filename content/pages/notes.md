@@ -3,9 +3,11 @@ layout: base.njk
 permalink: notes.html
 title: notes
 publish: true
-modified: 2025-11-02
+modified: 2025-11-08
 ---
 # {{ title }}
+everything that i've been thinking
+<br>
 
 {% assign top_notes = collections.notes | reverse %}
 {%- for post in top_notes-%}
