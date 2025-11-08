@@ -51,7 +51,7 @@ fetch("/storygraph-current.json")
 <!-- 
 rssfeed_url = new Array(); 
 rssfeed_url[0]="https://status.cafe/users/ysaaa.atom";  
-rssfeed_frame_width="230"; 
+rssfeed_frame_width="260"; 
 rssfeed_frame_height="260"; 
 rssfeed_scroll="off"; 
 rssfeed_scroll_step="6"; 
@@ -89,3 +89,6 @@ rssfeed_cache = "8e30fc44512d4b0aefd978d9c62ce31b";
 </script> 
 <script type="text/javascript" src="//feed.surfing-waves.com/js/rss-feed.js"></script> 
 <!-- end sw-rss-feed code -->
+
+
+## hi
