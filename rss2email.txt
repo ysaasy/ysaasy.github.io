@@ -1,3 +1,0 @@
-=: email pudynq@gmail.com
-=: cron 1 * * * *
-https://ysaaa.neocities.org/rss.xml
